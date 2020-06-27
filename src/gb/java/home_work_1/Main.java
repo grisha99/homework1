@@ -76,9 +76,9 @@ public class Main {
         String answer = "";
 
         if (isNegative(a)) {
-            answer = "Число отрицательное";
+            answer = "Число отрицательное.";
         } else
-            answer = "Число положительтное";
+            answer = "Число положительтное.";
         System.out.println("Результат: " + answer);
     }
 
